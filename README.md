@@ -5,4 +5,4 @@
 
 Para ejecutar el sistemma, debes poner:
 
-´´´npm installa react ´´´
+´´´npm installa react ´´´ 
