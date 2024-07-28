@@ -6,3 +6,5 @@
 Para ejecutar el sistemma, debes poner:
 
 ´´´npm installa react ´´´ 
+
+Sistema de información 2
